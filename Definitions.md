@@ -7,6 +7,6 @@ Tree models where the target variable can take a discrete set of values
 **Regression trees** :  
 Decision trees where the target variable can take continuous values (typically real numbers).
 
-
+ <img src="http://yuml.me/diagram/scruffy/class/[Wage]^-[Salaried], [Wage]^-[Contractor]" > 
 
 Source : https://en.wikipedia.org/wiki/Decision_tree_learning
