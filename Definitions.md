@@ -38,6 +38,8 @@ Sources :
 
  # Fundamentals of A.I.
 
-** Admissible heuristic ** :
-A heuristic function is said to be admissible if it never overestimates the cost of reaching the goal, i.e. the cost it estimates to reach the goal is not higher than the lowest possible cost from the current point in the path
+**Admissible heuristic** :
+A heuristic function is said to be admissible if it never overestimates the cost of reaching the goal, i.e. the cost it estimates to reach the goal is not higher than the lowest possible cost from the current point in the path. It is used to **estimate** the cost of reaching the goal state in an informed search algorithm. 
+More info in : https://en.wikipedia.org/wiki/Admissible_heuristic
+
 
