@@ -38,6 +38,11 @@ Sources :
 
  # Fundamentals of A.I.
 
+**UCS (Uniformal Cost Search)** :  
+UCS demands the use of a priority queue. The priority queue used here is constructed/sorted using the cumulative cost upto the node. 
+UCS gives the minimum cumulative cost the maximum priority.  
+More info: https://algorithmicthoughts.wordpress.com/2012/12/15/artificial-intelligence-uniform-cost-searchucs/
+
 **Admissible heuristic** :
 A heuristic function is said to be admissible if it never overestimates the cost of reaching the goal, i.e. the cost it estimates to reach the goal is not higher than the lowest possible cost from the current point in the path. It is used to **estimate** the cost of reaching the goal state in an informed search algorithm. 
 More info in : https://en.wikipedia.org/wiki/Admissible_heuristic
